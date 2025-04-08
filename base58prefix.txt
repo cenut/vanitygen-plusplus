@@ -1,6 +1,7 @@
 # For more infomation, please see https://en.bitcoinwiki.org/wiki/List_of_address_prefixes
 # Please sort this file by `sort -k1.1,1.1 base58prefix.txt>base58prefix.new; mv base58prefix.new base58prefix.txt`
 # Symbol, Coin name, Address prefix, Address base58 version (prefix), Private key base58 version (prefix)
+bd,bd,b,85,128
 42,42coin,4,8,136
 AC,Asiacoin,A,23,151
 ACM,Actinium,N,53,181
